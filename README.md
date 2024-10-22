@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @dgk-dev
+- 👀 I’m interested in web development, automation, and real-world programming applications.
+- 🌱 I’m currently learning Python, JavaScript, and web scraping techniques.
+- 💞️ I’m looking to collaborate on open-source projects related to automation and community development tools.
+- 📫 How to reach me: You can reach me via kangmumu@gmail.com or through my Linkedin https://www.linkedin.com/in/daniel-guesuk-kang/.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I’m fascinated by creative solutions in coding and enjoy optimizing code for efficiency.
